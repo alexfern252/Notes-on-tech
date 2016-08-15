@@ -7,3 +7,13 @@ SaaS is typically accessed by users using a thin client via a web browser.
 Communications as a Service (CaaS) is an outsourced enterprise communications solution that can be leased from a single vendor. 
 Such communications can include voice over IP
 (VoIP or Internet telephony), instant messaging (IM), collaboration and videoconference applications using fixed and mobile devices.
+
+Topics to read
+Infrastucture as a Service
+Jetty - https://examples.javacodegeeks.com/enterprise-java/jetty/jetty-tutorial-beginners/
+Maven
+XML
+JSON
+JAXP
+AWS
+
