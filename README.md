@@ -16,4 +16,10 @@ XML
 JSON
 JAXP
 AWS
+API gateway - https://aws.amazon.com/api-gateway/
+EC2 types - https://aws.amazon.com/ec2/instance-types/
+SOA
+REST vs SOAP - http://spf13.com/post/soap-vs-rest
 
+
+Interview questions - https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html
